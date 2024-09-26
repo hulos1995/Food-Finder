@@ -34,3 +34,12 @@
     color: #fff;
   }
 }
+@mixin button-header {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  &:hover {
+    background-color: transparent;
+  }
+}

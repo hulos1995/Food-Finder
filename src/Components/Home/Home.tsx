@@ -1,5 +1,9 @@
 import './Home.scss';
+import { useEffect, useState } from 'react';
 const Home: React.FC = () => {
+  const [provinces, setProvinces] = useState([]);
+  const [selectedProvince, setSelectedProvince] = useState('');
+  const [cities, setCities] = useState([]);
   return (
     <>
       <main className='layout__main'>
@@ -14,13 +18,6 @@ const Home: React.FC = () => {
         </header>
         <section className='layout__form'>
           <form className='form'>
-            <div className='form__group'>
-              <label htmlFor='value' className='form__label'>
-                Value
-              </label>
-              <textarea id='value' className='form__textarea' />
-            </div>
-
             <div className='form__group'>
               <label htmlFor='country' className='form__label'>
                 Country
@@ -49,7 +46,7 @@ const Home: React.FC = () => {
             </div>
 
             <button className='form__button' type='submit'>
-              Next ➔
+              Find ➔
             </button>
           </form>
         </section>
