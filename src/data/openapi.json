@@ -4,39 +4,174 @@
       "name": "Hà Nội",
       "code": 1,
       "cities": [
-        { "name": "Hoàn Kiếm", "code": 101 },
-        { "name": "Ba Đình", "code": 102 },
-        { "name": "Bắc Từ Liêm", "code": 103 },
-        { "name": "Cầu Giấy", "code": 104 },
-        { "name": "Đống Đa", "code": 105 },
-        { "name": "Hà Đông", "code": 106 },
-        { "name": "Hai Bà Trưng", "code": 107 },
-        { "name": "Hoàng Mai", "code": 108 },
-        { "name": "Long Biên", "code": 109 },
-        { "name": "Nam Từ Liêm", "code": 110 },
-        { "name": "Thanh Xuân", "code": 111 },
-        { "name": "Thanh Trì", "code": 112 },
-        { "name": "Tây Hồ", "code": 113 },
-        { "name": "Phú Xuyên", "code": 114 },
-        { "name": "Thường Tín", "code": 115 }
+        {
+          "name": "Hoàn Kiếm",
+          "code": 101,
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hanoi_Opera_House%2C_24_December_2016.jpg",
+          "details": "Hoàn Kiếm là một quận trung tâm của thành phố Hà Nội, Việt Nam. Tên quận được đặt theo tên của hồ Hoàn Kiếm. Quận Hoàn Kiếm là trung tâm hành chính, chính trị, kinh tế, văn hóa của Thành phố Hà Nội; là trung tâm nội đô lịch sử."
+        },
+        {
+          "name": "Ba Đình",
+          "code": 102,
+          "photo": "https://vi.wikipedia.org/wiki/Ba_%C4%90%C3%ACnh#/media/T%E1%BA%ADp_tin:%C4%90oan_M%C3%B4n,_Ho%C3%A0ng_th%C3%A0nh_Th%C4%83ng_Long,_H%C3%A0_N%E1%BB%99i_003.JPG",
+          "details": "Ba Đình là một trong 4 quận trung tâm của thủ đô. Đây là nơi tập trung nhiều cơ quan quan trọng của Đảng, Nhà nước nói chung và Hà Nội nói riêng."
+        },
+        {
+          "name": "Bắc Từ Liêm",
+          "code": 103,
+          "photo": "hhttps://vi.wikipedia.org/wiki/B%E1%BA%AFc_T%E1%BB%AB_Li%C3%AAm#/media/T%E1%BA%ADp_tin:%C4%90%C3%ACnh_Ch%C3%A8m_2_-_NKS.jpg",
+          "details": "Bắc Từ Liêm là một quận nội thành thuộc thành phố Hà Nội, Việt Nam."
+        },
+        {
+          "name": "Cầu Giấy",
+          "code": 104,
+          "photo": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Gi%E1%BA%A5y#/media/T%E1%BA%ADp_tin:Discovery_C%E1%BA%A7u_Gi%E1%BA%A5y.jpg",
+          "details": "Cầu Giấy là một quận nội thành thuộc thành phố Hà Nội, Việt Nam."
+        },
+        {
+          "name": "Đống Đa",
+          "code": 105,
+          "photo": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%91ng_%C4%90a#/media/T%E1%BA%ADp_tin:Main_gate_-_Temple_of_Literature,_Hanoi_-_DSC04519.JPG",
+          "details": "Đống Đa là một quận trung tâm của thành phố Hà Nội, Việt Nam. Là một trong bốn quận nằm ở trung tâm thành phố Hà Nội, về hành chính bao gồm 21 phường trực thuộc, với tổng diện tích là 9,95 km².[1] Tính tới năm 2021, dân số của quận đạt 376.800 người, mật độ dân số trung bình 37,869 người/km², cao gấp 15 lần mật độ dân số chung của toàn thành phố.[1] Quận Đống Đa là nơi tập trung nhiều doanh nghiệp sản xuất quốc doanh và đặc biệt các hệ thống trường đại học lớn như trường Đại học Giao thông vận tải, trường Đại học Ngoại Thương, trường Đại học Thủy lợi Hà Nội, trường Đại học Y Hà Nội, Đại học Luật Hà Nội... Quận Đống Đa là một trong những khu vực của thành phố Hà Nội có số di tích nhiều và mang giá trị cao, tiêu biểu là khu di tích Văn Miếu - Quốc Tử Giám được xây dựng từ năm 1070 dưới triều vua Lý Thánh Tông và trở thành trường Đại học đầu tiên của Việt Nam."
+        },
+        {
+          "name": "Hà Đông",
+          "code": 106,
+          "photo": "https://vi.wikipedia.org/wiki/H%C3%A0_%C4%90%C3%B4ng#/media/T%E1%BA%ADp_tin:Qu%E1%BA%ADn_H%C3%A0_%C4%90%C3%B4ng_v%E1%BB%81_%C4%91%C3%AAm.jpg",
+          "details": "Hà Đông là một quận nội thành của thành phố Hà Nội, Việt Nam. Quận nằm giữa sông Nhuệ và sông Đáy, cách trung tâm Hà Nội 12 km về phía Tây Nam. Quận Hà Đông nguyên là thành phố Hà Đông, tỉnh lỵ tỉnh Hà Tây. Hiện nay, quận là nơi đặt trụ sở một số cơ quan hành chính cấp thành phố của Hà Nội. Đây vốn là một vùng đất giàu truyền thống lịch sử-văn hóa và nay là một trong những địa phương có tốc độ phát triển kinh tế-xã hội nhanh của Thành phố Hà Nội."
+        },
+        {
+          "name": "Hai Bà Trưng",
+          "code": 107,
+          "photo": "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng_(qu%E1%BA%ADn)#/media/T%E1%BA%ADp_tin:H%E1%BB%93_Thi%E1%BB%81n_Quang,_H%C3%A0_N%E1%BB%99i.jpg",
+          "details": "Hai Bà Trưng là một quận nội thành thuộc thành phố Hà Nội, Việt Nam."
+        },
+        {
+          "name": "Hoàng Mai",
+          "code": 108,
+          "photo": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Mai_(qu%E1%BA%ADn)#/media/T%E1%BA%ADp_tin:Ph%C3%A1p_V%C3%A2n_Interchange.jpg",
+          "details": "Hoàng Mai là một quận nội thành của thành phố Hà Nội, Việt Nam. Đây là quận có diện tích lớn thứ tư của thành phố (sau các quận Long Biên, Hà Đông và Bắc Từ Liêm) và có dân số đông nhất trong số 30 quận, huyện, thị xã thuộc thành phố Hà Nội."
+        },
+        {
+          "name": "Long Biên",
+          "code": 109,
+          "photo": "https://vi.wikipedia.org/wiki/Long_Bi%C3%AAn#/media/T%E1%BA%ADp_tin:Long_Bien_mall_view_of_Long_Bien_district_in_2016_02.jpg",
+          "details": "Long Biên là một quận nội thành thuộc thành phố Hà Nội, Việt Nam. Long Biên là quận có diện tích lớn nhất và là quận duy nhất nằm ở tả ngạn sông Hồng thuộc thành phố Hà Nội."
+        },
+        {
+          "name": "Nam Từ Liêm",
+          "code": 110,
+          "photo": "https://vi.wikipedia.org/wiki/Nam_T%E1%BB%AB_Li%C3%AAm#/media/T%E1%BA%ADp_tin:Nam_T%E1%BB%AB_Li%C3%AAm_-_NKS.jpg",
+          "details": "Nam Từ Liêm là quận có nhiều công trình kiến trúc hiện đại và quan trọng của thủ đô Hà Nội như Trung tâm Hội nghị Quốc gia, Sân vận động Quốc gia Mỹ Đình, Keangnam Hanoi Landmark Tower, Bảo tàng Hà Nội, Đại lộ Thăng Long, Trung tâm đào tạo thể dục, thể thao, VĐV Cấp cao Hà Nội,..."
+        },
+        {
+          "name": "Thanh Xuân",
+          "code": 111,
+          "photo": "https://vi.wikipedia.org/wiki/Thanh_Xu%C3%A2n#/media/T%E1%BA%ADp_tin:Ng%C3%A3_t%C6%B0_Thanh_Xu%C3%A2n.jpg",
+          "details": "Thanh Xuân là một quận nội thành thuộc thành phố Hà Nội, Việt Nam."
+        },
+        {
+          "name": "Thanh Trì",
+          "code": 112,
+          "photo": "https://vi.wikipedia.org/wiki/Thanh_Tr%C3%AC#/media/T%E1%BA%ADp_tin:Dinhbadank3.JPG",
+          "details": "Thanh Trì là một huyện ngoại thành nằm ở phía nam thành phố Hà Nội, Việt Nam."
+        },
+        {
+          "name": "Tây Hồ",
+          "code": 113,
+          "photo": "https://vi.wikipedia.org/wiki/T%C3%A2y_H%E1%BB%93_(qu%E1%BA%ADn)#/media/T%E1%BA%ADp_tin:Chi%E1%BB%81u_h%E1%BB%93_T%C3%A2y_-_NKS.jpg",
+          "details": "Tên quận được đặt theo tên của Hồ Tây, hồ nước tự nhiên lớn nhất của Hà Nội nằm trên địa bàn quận."
+        },
+        {
+          "name": "Phú Xuyên",
+          "code": 114,
+          "photo": "https://vi.wikipedia.org/wiki/Ph%C3%BA_Xuy%C3%AAn#/media/T%E1%BA%ADp_tin:Nh%C3%A0_th%E1%BB%9D_Gi%C3%A1o_x%E1%BB%A9_Ph%C3%BA_M%E1%BB%B9,_Ph%C3%BA_Xuy%C3%AAn,_H%C3%A0_N%E1%BB%99i.jpeg",
+          "details": "Phú Xuyên là một huyện ngoại thành nằm ở phía nam thành phố Hà Nội, Việt Nam."
+        },
+        {
+          "name": "Thường Tín",
+          "code": 115,
+          "photo": "https://vi.wikipedia.org/wiki/Th%C6%B0%E1%BB%9Dng_T%C3%ADn#/media/T%E1%BA%ADp_tin:Ch%C3%B9a_Ph%C3%A1p_V%C3%A2n,_V%C4%83n_B%C3%ACnh,_Th%C6%B0%E1%BB%9Dng_T%C3%ADn,_H%C3%A0_N%E1%BB%99i.jpeg",
+          "details": "Thường Tín là một huyện ngoại thành nằm ở phía nam thành phố Hà Nội, Việt Nam."
+        }
       ]
     },
     {
       "name": "Hồ Chí Minh",
       "code": 2,
       "cities": [
-        { "name": "District 1", "code": 201 },
-        { "name": "District 2", "code": 202 },
-        { "name": "District 3", "code": 203 },
-        { "name": "District 4", "code": 204 },
-        { "name": "District 5", "code": 205 },
-        { "name": "District 6", "code": 206 },
-        { "name": "District 7", "code": 207 },
-        { "name": "District 8", "code": 208 },
-        { "name": "District 9", "code": 209 },
-        { "name": "District 10", "code": 210 },
-        { "name": "District 11", "code": 211 },
-        { "name": "District 12", "code": 212 }
+        {
+          "name": "District 1",
+          "code": 201,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_1#/media/T%E1%BA%ADp_tin:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_03.JPG",
+          "details": "Quận 1 là nơi tập trung nhiều cơ quan chính quyền, các lãnh sự quán các nước và các tòa nhà cao tầng của thành phố (tòa nhà cao nhất Quận 1 và thứ nhì Thành phố Hồ Chí Minh là Bitexco Financial Tower). Quận 1 được xem là nơi sầm uất và có mức sống cao nhất của Thành phố về mọi phương diện, nổi tiếng với những địa điểm Phố đi bộ Nguyễn Huệ, Dinh Độc Lập, Nhà thờ chính tòa Đức Bà Sài Gòn, Thảo Cầm Viên Sài Gòn, Phố đi bộ Bùi Viện, Chợ Bến Thành,... Quận 1 được thành lập vào ngày 20 tháng 5 năm 1976 trên cơ sở sáp nhập Quận Nhứt và Quận Nhì của Đô thành Sài Gòn của Việt Nam Cộng hòa."
+        },
+        {
+          "name": "District 3",
+          "code": 202,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_3#/media/T%E1%BA%ADp_tin:H%E1%BB%93_Con_R%C3%B9a.JPG",
+          "details": "Quận 3 là một quận nội thành nằm ở khu vực trung tâm Thành phố Hồ Chí Minh, Việt Nam. Quận được thành lập ngày 27 tháng 5 năm 1959, có các địa điểm nổi tiếng như Hồ Con Rùa, Nhà thờ Tân Định, Chợ Bàn Cờ, Bảo tàng Chứng tích chiến tranh, Nhà Thiếu nhi Thành phố Hồ Chí Minh,..."
+        },
+        {
+          "name": "District 4",
+          "code": 203,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_4#/media/T%E1%BA%ADp_tin:Ben_Nha_Rong_ve_dem.JPG",
+          "details": "Quận 4 (hay Quận Tư) là một quận nội thành thuộc Thành phố Hồ Chí Minh, Việt Nam. Đây là nơi có di tích Bến Nhà Rồng, Bảo tàng Hồ Chí Minh, Cảng Sài Gòn, nhà thờ Xóm Chiếu cùng nhiều kiến trúc tôn giáo khác."
+        },
+        {
+          "name": "District 5",
+          "code": 204,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_5#/media/T%E1%BA%ADp_tin:H%E1%BB%99i_qu%C3%A1n_Tu%E1%BB%87_Th%C3%A0nh.jpg",
+          "details": "Quận 5 là một quận nội thành thuộc Thành phố Hồ Chí Minh, Việt Nam. Được thành lập vào ngày 27 tháng 5 năm 1959 với nhiều địa danh nổi tiếng như Bệnh viện Chợ Rẫy, Thuận Kiều Plaza, Chợ An Đông, Hội quán Tuệ Thành, .... Quận 5 cùng với Quận 6 còn được gọi chung là Chợ Lớn, khu trung tâm thương mại lớn nhất của người Hoa ở Việt Nam."
+        },
+        {
+          "name": "District 6",
+          "code": 205,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_6#/media/T%E1%BA%ADp_tin:HCMC_Binh_Tay.jpg",
+          "details": "Quận có Chợ Bình Tây (thường gọi là Chợ Lớn), đây được xem một khu trung tâm thương mại lớn nhất của người Hoa ở Việt Nam."
+        },
+        {
+          "name": "District 7",
+          "code": 206,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_7#/media/T%E1%BA%ADp_tin:Phu_My_Hung,_HCM_City_5.jpg",
+          "details": "Quận 7 từng là một phần của huyện Nhà Bè trước kia. Quận 7 nổi tiếng với khu chế xuất Tân Thuận, công viên giải trí Wonderland và Khu đô thị Phú Mỹ Hưng (Khu đô thị Nam Sài Gòn)."
+        },
+        {
+          "name": "District 8",
+          "code": 207,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_8#/media/T%E1%BA%ADp_tin:Duong_Ben_binh_dong-ph%C6%B0%E1%BB%9Dng_14,_Qu%E1%BA%ADn_8,_TPHCM,_Vi%E1%BB%87t_Nam_-_panoramio.jpg",
+          "details": "Quận 8 là một quận nội thành nằm ở phía tây nam Thành phố Hồ Chí Minh, Việt Nam."
+        },
+        {
+          "name": "District 10",
+          "code": 28,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_10#/media/T%E1%BA%ADp_tin:Trung_Tam_The_Duc_the_Thao_Thong_Nhat,phuong_6,_q10,_tphcmvn_-_panoramio.jpg",
+          "details": "Quận được chính thức thành lập vào ngày 1 tháng 7 năm 1969 với nhiều địa chỉ nổi tiếng như Trại giam Chí Hòa, Sân vận động Thống Nhất, Nhà hát Hòa Bình, Việt Nam Quốc Tự, Chợ Nhật Tảo, Vạn Hạnh Mall,..."
+        },
+        {
+          "name": "District 11",
+          "code": 209,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_11#/media/T%E1%BA%ADp_tin:Dam-sen-tuonglamphotos.jpg",
+          "details": "Quận chính thức được thành lập vào ngày 1 tháng 7 năm 1969 với nhiều địa chỉ nổi tiếng như công viên Văn hóa Đầm Sen, chùa Giác Viên, chùa Phụng Sơn, nhà thi đấu Phú Thọ,... cùng nhiều địa chỉ hấp dẫn khác."
+        },
+        {
+          "name": "District 12",
+          "code": 210,
+          "photo": "https://vi.wikipedia.org/wiki/Qu%E1%BA%ADn_12#/media/T%E1%BA%ADp_tin:Giao_thong_quan_12.jpg",
+          "details": "Quận 12 từng là một phần của huyện Hóc Môn trước kia. Quận 12 có nhiều địa điểm tham quan như: căn cứ Vườn Cau ở Thạnh Lộc, chùa Thiên Vân, chùa Quảng Đức, làng cá sấu, các vườn mai, vườn kiểng,... và cũng là địa điểm đặt trung tâm công nghệ thông tin lớn nhất nước là công viên phần mềm Quang Trung. Quận 12 nằm gần kề với khu vực trung tâm Thành phố Hồ Chí Minh về phía Tây Bắc, cách trung tâm Thành phố hơn 10km theo đường chim bay, là quận cửa ngõ phía Bắc của khu vực trung tâm Thành phố."
+        },
+        {
+          "name": "Bình Tân",
+          "code": 211,
+          "photo": "https://vi.wikipedia.org/wiki/B%C3%ACnh_T%C3%A2n_(qu%E1%BA%ADn)#/media/T%E1%BA%ADp_tin:Sieu_thi_Aeonmall,duong_Ten_lua_duong_so17A,phuong_B%C3%ACnh_Tr%E1%BB%8B_%C4%90%C3%B4ng_B,_B%C3%ACnh_T%C3%A2n,_TPHCM,_Vi%E1%BB%87t_Nam,24-07-16-Dyt_-_panoramio.jpg",
+          "details": "Quận Bình Tân được thành lập vào ngày 5 tháng 11 năm 2003 trên cơ sở tách 3 xã: Bình Hưng Hòa, Bình Trị Đông, Tân Tạo và thị trấn An Lạc thuộc huyện Bình Chánh theo Nghị định 130/2003/NĐ-CP[1] của Chính phủ Việt Nam. Đây là quận đông dân nhất Thành phố Hồ Chí Minh và cũng là quận đông dân nhất trong số các quận thuộc các thành phố trực thuộc trung ương với dân số gần 800.000 dân, tương đương với một tỉnh."
+        },
+        {
+          "name": "Bình Thạnh",
+          "code": 212,
+          "photo": "https://vi.wikipedia.org/wiki/B%C3%ACnh_Th%E1%BA%A1nh#/media/T%E1%BA%ADp_tin:Lang_Ong_ba_Chieu_Binh_thanh_-_panoramio.jpg",
+          "details": "Bình Thạnh là một quận nội thành thuộc Thành phố Hồ Chí Minh, Việt Nam. Tên gọi Bình Thạnh ngày nay dựa trên sự sáp nhập của 2 xã của quận Gò Vấp sau năm 1975 là Bình Hòa Xã và Thạnh Mỹ Tây. Quận có nhiều địa điểm nổi tiếng như Landmark 81, Lăng Ông (Bà Chiểu), Chợ Bà Chiểu, Bờ kè Thanh Đa, Khu du lịch Bình Qưới."
+        }
       ]
     },
     {
